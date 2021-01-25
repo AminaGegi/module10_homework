@@ -1,5 +1,5 @@
 str1 = prompt('ВВедите текст');
-function reverseStr(s tr) {
+function reverseStr(str) {
 
     return str.split("").reverse().join("");
 
