@@ -9,5 +9,5 @@ else
 if (typeof x === 'boolean')
     console.log("x = логическому типу")
 else
-if (typeof x === 'number')
+
     console.log("Тип не определен")
